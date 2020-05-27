@@ -22,8 +22,15 @@ width: 420px;
 }
 .navbar {
 	width: 600px
+}
 
-	
+.slide {
+	width: 600px;
+	height: 600px;
+}
+.d-block {
+	width: 600px;
+	height: 400px;
 }
 .navbar a {
 	color:white;
