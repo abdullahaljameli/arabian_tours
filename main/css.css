@@ -11,7 +11,17 @@ img {
 
 #ul1 {
 		text-align: left;
+	border:solid 2px;
+width: 420px;
+	word-spacing: 10px;
+	display: inline-block;
+	margin: 10px;
+	padding: 10px;
+	float: left;
+}
+#ul2 {
 
+			text-align: left;
 	border:solid 2px;
 width: 420px;
 	word-spacing: 10px;
@@ -41,6 +51,16 @@ width: 420px;
 
 	color: white;
 }
+.whatsapp {
+	float: left;
+	height: 40px;
+	width: 40px;
+}
+.socialmedia {
+	width: 600px;
+	float: left;
+}
+
 #pmain {
 	width: 300px
 }
